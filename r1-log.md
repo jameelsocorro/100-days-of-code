@@ -1,10 +1,10 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Jameel Socorro
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [January 3, Thursday, 2019].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Started working on freeCodeCamp curriculum Responsive Web Design Certification and Finished Basic HTML and HTML 5 Section
 
 ### R1D2
