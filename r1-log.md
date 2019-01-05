@@ -9,3 +9,6 @@ Started working on freeCodeCamp curriculum Responsive Web Design Certification a
 
 ### R1D2
 Finished freeCodeCamp Responsive Web Design Certification Basic CSS Section.
+
+### R1D3
+Finished freeCodeCamp Responsive Web Design Certification Applied Visual Design Section.
